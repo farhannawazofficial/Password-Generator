@@ -1,4 +1,4 @@
-Password Generator
+#Password Generator
 
 This is a Python program that generates secure random passwords based on the user's chosen criteria.
 
